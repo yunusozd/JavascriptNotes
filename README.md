@@ -4,4 +4,4 @@ Bu notlar, yani html dosyaları basit bir şekilde eğitimden anladığım şeyl
 
 #Öğrendiğim Kaynak
 
-Bu dersi tr.javascript.info sitesinden alıyorum. ([Tıkla git!](https://www.tr.javascript.info))
+Bu dersi tr.javascript.info sitesinden alıyorum. ([Tıkla git!](https://tr.javascript.info))
